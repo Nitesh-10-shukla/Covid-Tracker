@@ -1,10 +1,6 @@
 # Getting Started with Create React App
 
 
-![Screenshot (25)](https://user-images.githubusercontent.com/77198890/126044963-28695b4d-02b1-45e0-a077-f4f318550d44.png)
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can see this project live on netlify  [Covid-Tracker](https://covidtrackerbyshubham.netlify.app/).
